@@ -42,13 +42,13 @@ public class dependsExample {
         System.out.println("Browser Opened Successfully");
     }
 // 
-//    @Test(enabled=false)
-//    public void LogIn() {
-//        System.out.println("Login Into The Account");
-//    }
-//   @Test
-//    public void zLogIn() {
-//        System.out.println("Login Into The Account");
-//    }
+    @Test(enabled=false)
+    public void LogIn() {
+        System.out.println("Login Into The Account");
+    }
+   @Test
+    public void zLogIn() {
+        System.out.println("Login Into The Account");
+    }
 
 }
