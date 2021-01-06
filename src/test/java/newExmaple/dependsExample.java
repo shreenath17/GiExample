@@ -28,6 +28,10 @@ public class dependsExample {
 		//driver.get("http://demo.automationtesting.in/Selectable.html");
 		driver.manage().window().maximize();
 	}
+	@Test
+  public void ViewAcdetailsc() {
+      System.out.println("View Your cerif");
+  }
 //	@Test
 //    public void ViewAcc() {
 //        System.out.println("View Your Dashboardd");
