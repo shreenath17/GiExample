@@ -37,10 +37,10 @@ public class dependsExample {
 //        System.out.println("View Your Dashboardd");
 //    }
 // 
-//    @Test
-//    public void OpenBrowser() {
-//        System.out.println("Browser Opened Successfully");
-//    }
+    @Test
+    public void OpenBrowser() {
+        System.out.println("Browser Opened Successfully");
+    }
 // 
 //    @Test(enabled=false)
 //    public void LogIn() {
